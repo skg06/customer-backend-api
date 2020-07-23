@@ -1,0 +1,12 @@
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\bin\Debug\netcoreapp3.1\Customers.Repositories.deps.json
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\bin\Debug\netcoreapp3.1\Customers.Repositories.dll
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\bin\Debug\netcoreapp3.1\Customers.Repositories.pdb
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\bin\Debug\netcoreapp3.1\Customers.Infrastructure.dll
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\bin\Debug\netcoreapp3.1\Customers.Infrastructure.pdb
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\obj\Debug\netcoreapp3.1\Customers.Repositories.csprojAssemblyReference.cache
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\obj\Debug\netcoreapp3.1\Customers.Repositories.AssemblyInfoInputs.cache
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\obj\Debug\netcoreapp3.1\Customers.Repositories.AssemblyInfo.cs
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\obj\Debug\netcoreapp3.1\Customers.Repositories.csproj.CoreCompileInputs.cache
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\obj\Debug\netcoreapp3.1\Customers.Repositories.csproj.CopyComplete
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\obj\Debug\netcoreapp3.1\Customers.Repositories.dll
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Repositories\obj\Debug\netcoreapp3.1\Customers.Repositories.pdb

@@ -1,0 +1,8 @@
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Shared\bin\Debug\netcoreapp3.1\Customers.Shared.deps.json
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Shared\bin\Debug\netcoreapp3.1\Customers.Shared.dll
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Shared\bin\Debug\netcoreapp3.1\Customers.Shared.pdb
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Shared\obj\Debug\netcoreapp3.1\Customers.Shared.AssemblyInfoInputs.cache
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Shared\obj\Debug\netcoreapp3.1\Customers.Shared.AssemblyInfo.cs
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Shared\obj\Debug\netcoreapp3.1\Customers.Shared.csproj.CoreCompileInputs.cache
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Shared\obj\Debug\netcoreapp3.1\Customers.Shared.dll
+C:\Nagarro\Projects\Bingo\CustomerBackendService\Customers.Shared\obj\Debug\netcoreapp3.1\Customers.Shared.pdb

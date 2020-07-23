@@ -1,0 +1,2 @@
+﻿dotnet ef  migrations add Init -c ApplicationDbContext -o Migrations/AppMigrations
+dotnet ef  database update -c ApplicationDbContext
